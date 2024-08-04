@@ -10,7 +10,6 @@ The application includes several modules and features:
 
 - **Drivers:** Information about cab drivers.
 - **Vehicles:** Details on different vehicles.
-- **Speeds:** Vehicle speeds and their implications.
 - **Default Location:** Standard starting points for cabs.
 - **Ratings:** Driver ratings and reviews.
 
